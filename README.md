@@ -1,6 +1,6 @@
 # Covid Counter Bot
 
-Created 13 April 2020.
+Created 13 April 2020 by Eric Zhang for the STMC Programming Club.
 
 This is a quick Discord bot I made for my school's Progamming Club that sends messages providing the coronavirus cases for any territory listed on https://www.worldometers.info/, as well as global case counts.
 
